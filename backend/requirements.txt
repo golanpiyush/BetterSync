@@ -1,0 +1,20 @@
+# requirements.txt
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-CORS
+python-dotenv
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+stripe
+psycopg2-binary
+redis
+celery
+schedule
+cryptography
+bcrypt
+Werkzeug
+gunicorn
